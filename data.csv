@@ -1,0 +1,6 @@
+Roll Number,Student Name,Father's Name,Email Address,Phone Number,Gender,High School Percentage,High School Board,Intermediate Percentage,Intermediate Board,Attendance Portal Registration Status
+101,Student1,father1,example1@mail.com,1234567890,Female,84.54,ICSE Board,87.4,UP Board,Registered
+102,Student2,Father2,exam2@redmail.com,9876543210,Male,,UP Board,72.9,CBSE Board,Not Registered
+103,StuName3,Fname3,temp@out.com,8527419603,Others,65,Others,55,Others,Registered
+104,xyz,abc,xyz@abc.com,9517523025,Male,90.5,CBSE Board,95.8,ICSE Board,Not Registered
+105,stname,fatnam,xqee@ac.com,7845123697,Male,82.5,CBSE Board,64.2,ICSE Board,Not Registered
